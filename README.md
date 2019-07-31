@@ -1,2 +1,0 @@
-# ReactContextState
-Created with CodeSandbox
